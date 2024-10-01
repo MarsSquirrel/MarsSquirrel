@@ -1,2 +1,62 @@
-<h1 align="center">Hey! I'm MarsSquirrel</h1>
+<h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
 <h3 align=center>Experienced Roblox & Fullstack Programmer</h3>
+
+<h4>About Me</h4>
+I'm a student who is passionate and loves to program in my freetime and at school! Here are some more fun facts about me:
+<br>
+<ul>
+    <li>I've been programming since I was 6 years old 💻</li>
+    <li>I've been to over 20+ countries 🚀</li>
+    <li>I speak English and some German 🇩🇪</li>
+    <li>I love flying/aviation ✈️</li>
+    <li>Big into Minecraft, Shapez & Astroneer 🎮</li>
+    <li>And a lot more!</li>
+</ul>
+
+<h4>Current Projects</h4>
+While most of my repositories are private, here are some projects I'm currently working on!
+<ul>
+    <li>SizzleBurger V5 Updates</li>
+    <li>Burgeria</li>
+    <li>sync (roblox framework)</li>
+    <li>+ Private Projects</li>
+</ul>
+<h4>Programming Languages & Tools</h4>
+Here are some Programming languages & tools that I've used!
+<p align="left">
+    <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="Lua" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="BASH" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySql" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+<h4>2024 Goals</h4>
+<ul>
+    <li>Purchase MacBook Air</li>
+    <li>Contribute more to Open Source</li>
+    <li>Earn $3,000+ From DevEx</li>
+<ul>
+<h4 align="center">Contact Me</h4>
+<div style=" display: flex; align-items: center; justify-content: start;flex-direction: column;">
+    <a href="https://x.com/noMarsHere">
+        Twitter: @NoMarsHere
+    </a>
+    <a href="#">
+        Email: Not Avaliable
+    </a>
+</div>
