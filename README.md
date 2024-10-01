@@ -50,13 +50,14 @@ Here are some Programming languages & tools that I've used!
     <li>Purchase MacBook Air</li>
     <li>Contribute more to Open Source</li>
     <li>Earn $3,000+ From DevEx</li>
-<ul>
-<h4 align="center">Contact Me</h4>
-<div style=" display: flex; align-items: center; justify-content: start;flex-direction: column;">
-    <a href="https://x.com/noMarsHere">
-        Twitter: @NoMarsHere
-    </a>
-    <a href="#">
-        Email: Not Avaliable
-    </a>
-</div>
+</ul>
+<h4>Contact Me</h4>
+<a href="https://x.com/noMarsHere">
+    Twitter: @NoMarsHere
+</a>
+
+<br>
+
+<a href="#">
+    Email: Not Avaliable At the Moment
+</a>
