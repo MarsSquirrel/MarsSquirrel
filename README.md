@@ -1,3 +1,5 @@
+<img src="/images/banner.jpg" style="border-radius: 25px;"/>
+
 <h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
 <h3 align=center>Experienced Roblox & Fullstack Programmer</h3>
 
