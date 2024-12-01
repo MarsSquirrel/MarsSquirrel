@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
 <h3 align=center>Experienced Roblox & Fullstack Programmer</h3>
 
-Last login: Friday, November 29th
+Last login: Saturday, November 30th 🍔
 
 <h4>About Me</h4>
 I'm a student who is passionate and loves to program in my freetime and at school! Here are some more fun facts about me:
@@ -21,7 +21,7 @@ I'm a student who is passionate and loves to program in my freetime and at schoo
 While most of my repositories are private, here are some projects I'm currently working on!
 <ul>
     <li>SizzleBurger V5 Updates</li>
-    <li>Burgeria</li>
+    <li>Burgeria (UPDATE RELEASED 11/30)</li>
     <li>sync (roblox framework)</li>
     <li>+ Private Projects</li>
 </ul>
