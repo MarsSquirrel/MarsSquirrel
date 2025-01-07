@@ -51,9 +51,7 @@ Here are some Programming languages & tools that I've used!
 </p>
 <h4>2024 Goals</h4>
 <ul>
-    <li>Purchase MacBook Air</li>
-    <li>Contribute more to Open Source</li>
-    <li>Earn $3,000+ From DevEx</li>
+    <li>Coming soon 👀</li>
 </ul>
 <h4>Contact Me</h4>
 <a href="https://x.com/noMarsHere">
