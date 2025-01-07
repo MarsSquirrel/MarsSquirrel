@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
 <h3 align=center>Experienced Roblox & Fullstack Programmer</h3>
 
-Last login: Monday, January 6th
+Last login: Tuesday, January 7th
 
 <h4>About Me</h4>
 I'm a student who is passionate and loves to program in my freetime and at school! Here are some more fun facts about me:
@@ -49,14 +49,10 @@ Here are some Programming languages & tools that I've used!
     <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-<h4>2024 Goals</h4>
+<h4>2025 Goals</h4>
 <ul>
     <li>Coming soon 👀</li>
 </ul>
-<h4>Contact Me</h4>
-<a href="https://x.com/noMarsHere">
-    Twitter: @NoMarsHere
-</a>
 
 <br>
 
