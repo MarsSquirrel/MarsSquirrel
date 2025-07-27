@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
 <h3 align=center>Experienced Roblox & Fullstack Programmer</h3>
 
-Last login: Wednesday, July 16th
+Last login: Sunday, July 27th (I completely forgot to update this lol)
 
 <h4>About Me</h4>
 I'm a student who is passionate and loves to program in my freetime and at school! Here are some more fun facts about me:
