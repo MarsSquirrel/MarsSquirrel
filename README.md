@@ -20,11 +20,9 @@ I'm a student who is passionate and loves to program in my freetime and at schoo
 <h4>Current Projects</h4>
 While most of my repositories are private, here are some projects I'm currently working on!
 <ul>
-    <li>SizzleBurger V5 Updates</li>
-    <li>Burgeria Updates</li>
+    <li>SizzleBurger Updates</li>
+    <li>Coast Transfer</li>
     <li>Kecai V3</li>
-    <li>Monaco Bakery V1</li>
-    <li>LeMonde Airlines</li>
     <li>+ Private Projects</li>
 </ul>
 <h4>Programming Languages & Tools</h4>
