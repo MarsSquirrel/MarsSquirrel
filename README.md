@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
 <h3 align=center>Experienced Roblox & Fullstack Programmer</h3>
 
-Last login: Saturday, August 16th
+Last login: Tuesday, August 19th
 
 <h4>About Me</h4>
 I'm a student who is passionate and loves to program in my freetime and at school! Here are some more fun facts about me:
@@ -21,7 +21,8 @@ I'm a student who is passionate and loves to program in my freetime and at schoo
 While most of my repositories are private, here are some projects I'm currently working on!
 <ul>
     <li>SizzleBurger Updates</li>
-    <li>Coast Transfer</li>
+    <li>Coast Transfer (completed 8/17)</li>
+    <li>Coast bug fixes/updates</li>
     <li>Kecai V3</li>
     <li>+ Private Projects</li>
 </ul>
