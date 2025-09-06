@@ -23,7 +23,7 @@ While most of my repositories are private, here are some projects I'm currently 
     <li>SizzleBurger Updates</li>
     <li>Coast Transfer (completed 8/17)</li>
     <li>Coast bug fixes/updates</li>
-    <li>Kecai V3</li>
+    <li>Flawn Salon</li>
     <li>+ Private Projects</li>
 </ul>
 <h4>Programming Languages & Tools</h4>
