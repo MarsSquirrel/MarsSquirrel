@@ -1,7 +1,7 @@
 <img src="/images/banner.jpg" style="border-radius: 25px;"/>
 
 <h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
-<h3 align=center>Experienced Roblox & Fullstack Programmer</h3>
+<h3 align=center>Experienced Roblox & Fullstack Programmer<br><a href="https://marsss.dev" align=center><b>Visit My Portfolio</b></a></h3>
 
 Last login: Saturday, January 3rd
 
