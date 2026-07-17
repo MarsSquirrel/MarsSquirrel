@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey! I'm MarsSquirrel</h1>
 <h3 align=center>Experienced Roblox & Fullstack Programmer<br><a href="https://marsss.dev" align=center><b>Visit My Portfolio</b></a></h3>
 
-Last login: Thursday, July 16th
+Last login: Friday, July 17th
 
 <h4>About Me</h4>
 I'm a student who is passionate and loves to program in my freetime and at school! Here are some more fun facts about me:
@@ -30,7 +30,7 @@ While most of my repositories are private, here are some projects I'm currently 
 Here are some Programming languages & tools that I've used!
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="Lua" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
